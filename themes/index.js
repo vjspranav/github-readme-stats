@@ -84,6 +84,12 @@ const themes = {
     bg_color: "272822",
   },
   vue: {
+    title_color: "00FFF",
+    icon_color: "00FFF",
+    text_color: "273849",
+    bg_color: "fffefe",
+  },
+  Cyanvue: {
     title_color: "41b883",
     icon_color: "41b883",
     text_color: "273849",

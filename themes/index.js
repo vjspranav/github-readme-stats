@@ -250,6 +250,12 @@ const themes = {
     icon_color: "89ddff",
     text_color: "27e8a7",
     bg_color: "242938"
+  },
+  Cyanvue: {
+    title_color: "00FFFF",
+    icon_color: "00FFFF",
+    text_color: "273849",
+    bg_color: "fffefe",
   }
 };
 
